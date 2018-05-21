@@ -242,7 +242,7 @@ input[type=submit] {
 
 @media screen and (max-width: 640px) {  
   .auth-image {
-    width: 300px;
+    width: 315px;
     height: auto;
     float: none;
   }
@@ -269,7 +269,7 @@ input[type=submit] {
   }
 
   .work {
-    width: 300px;
+    width: 315px;
     height: auto;
   }
 }
